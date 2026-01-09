@@ -1,0 +1,87 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos del encabezado */
+header {
+  background-color: #b0ee4d;
+  color: #e7794e;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Estilos de la barra de navegación */
+nav {
+  background-color: #f2f2f2;
+  padding: 10px;
+  text-align: center;
+}
+
+nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #333;
+  padding: 5px;
+}
+
+/* Estilos del contenido principal */
+main {
+  padding: 20px;
+}
+
+/* Estilos de las secciones */
+section {
+  margin-bottom: 30px;
+}
+
+section h2 {
+  color: #333;
+}
+
+.proyectos h3 {
+  margin-top: 10px;
+}
+
+.proyectos p {
+  color: #777;
+}
+
+.proyectos a {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #333;
+  color: #fff;
+  text-decoration: none;
+  margin-top: 10px;
+}
+
+/* Estilos del pie de página */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+
+p {
+  font-family: 'Segoe UI', 'Inter', 'Roboto', sans-serif;
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #2e2e2e;
+  margin-bottom: 1rem;
+  max-width: 700px;
+}
+
