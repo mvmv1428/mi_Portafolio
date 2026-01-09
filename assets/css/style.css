@@ -70,7 +70,7 @@ section h2 {
 
 /* Estilos del pie de página */
 footer {
-  background-color: #333;
+  background-color: #627e2e;
   color: #fff;
   padding: 10px;
   text-align: center;
@@ -83,5 +83,6 @@ p {
   color: #2e2e2e;
   margin-bottom: 1rem;
   max-width: 700px;
+  
 }
 
